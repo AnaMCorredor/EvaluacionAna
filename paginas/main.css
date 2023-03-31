@@ -1,0 +1,107 @@
+
+
+#con{
+    display: flex;
+    margin-bottom: 2%;
+    justify-content: space-around;
+    
+}
+
+#enca{
+    text-align: center;
+    background-color: #9ca6d49f;
+    
+}
+
+.titulo1{
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+
+spam{
+    color: #000;
+    font-size:large;
+}
+
+.nav-item{
+text-align: center;
+}
+
+.carousel-inner{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    max-height: 39rem;
+}
+
+#divheader {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: -1.5%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #9bd3ae;
+}
+
+#intro{
+    margin-top: 2%;
+    background-color: rgba(200, 230, 196, 0.596);
+}
+
+.news {
+    background-color: #fff;
+    padding-top: 2%;
+}
+
+.news .titlepage h2 {
+    margin-bottom: 5%;
+    padding-bottom: 2%;
+    border-bottom: #51965c solid 5px;
+}
+
+.card{
+
+
+    margin-left: 4%;
+    margin-right: 4%;
+    
+}
+
+.card-img-top{
+    width: 10%;
+    height: 10%;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+#video{
+    margin-top: 3%;
+    margin-left: 4%;
+    width: 50%;
+}
+
+#aler{
+    margin-top: 15%;
+    display: flex;
+    margin-bottom: 10%;
+    margin-left: 120%;
+    text-align: center;
+    height: 50%;
+    
+}
+
+#viul{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Nc8hJEVDSKpsiRD0g_0MzTYtBmq-I7LTbA&usqp=CAU);
+}
+
+footer {
+    padding-top: 2%;
+    margin-top: 50px;
+    width: 100%;
+    height: 100%;
+    background-color: #9bb8d3cb;
+    color: black;
+    text-align: center;
+
+}
